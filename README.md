@@ -58,10 +58,9 @@ This is a personal portfolio website created to showcase my skills, experience, 
 
 ## Contact
 Feel free to reach out for any inquiries or collaborations:
-- **Name**: Dhiraj Kumar Jha
-- **Email**: [jhadhiraj008@gmail.com](mailto:jhadhiraj008@gmail.com)
-- **LinkedIn**: [Dhiraj Kumar Jha](https://www.linkedin.com/in/dhiraj-jha-8a4130222/)
-- **GitHub**: [GitHub Profile](https://github.com/imjhadhiraj)
+- **Name**: Mannu Kumar
+- **Email**: [mannu01311@gmail.com](mailto:mannu01311@gmail.com)
+- **LinkedIn**: [Mannu Kumar]([https://www.linkedin.com/in/dhiraj-jha-8a4130222/](https://www.linkedin.com/in/mannu-kumar-972a6a230/))
 
 ---
 
